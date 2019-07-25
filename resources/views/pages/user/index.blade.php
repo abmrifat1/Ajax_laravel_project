@@ -13,7 +13,7 @@
                 <tr>
                     <th>No</th>
                     <th>Name</th>
-                    <th>Email</th>
+                    <th>Email Address</th>
                     <th></th>
                 </tr>
                 </thead>
